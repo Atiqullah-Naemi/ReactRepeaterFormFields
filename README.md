@@ -1,2 +1,0 @@
-# ReactRepeaterFormFields
-Created with CodeSandbox
